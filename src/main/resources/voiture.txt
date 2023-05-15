@@ -1,0 +1,8 @@
+Voiture{marque = ferrari, matricule=6A1399, couleur='noir, prix=180000.0, kilometrage=180000.0, vitesse=180000.0}
+Voiture{marque = lambo, matricule=7B1112, couleur='rouge, prix=230000.0, kilometrage=230000.0, vitesse=230000.0}
+Voiture{marque = bently, matricule=932H33, couleur='gray, prix=130000.0, kilometrage=130000.0, vitesse=130000.0}
+Voiture{marque = 7R2231, matricule=BMW, couleur='noir, prix=180000.0, kilometrage=17000.0, vitesse=220.0}
+Voiture{marque = 9K3112, matricule=DACIA, couleur='noir, prix=180000.0, kilometrage=17000.0, vitesse=220.0}
+Voiture{marque = 3E2345, matricule=HUANDAI, couleur='noir, prix=180000.0, kilometrage=17000.0, vitesse=220.0}
+Voiture{marque = 3M221W, matricule=JAGUAR, couleur='noir, prix=180000.0, kilometrage=17000.0, vitesse=220.0}
+Voiture{marque = 2K1221, matricule=mercedece, couleur='noir, prix=180000.0, kilometrage=17000.0, vitesse=220.0}

@@ -1,0 +1,3 @@
+Voiture{marque = BMW, matricule=6A19992, couleur='noir, prix=180000.0, kilometrage=180000.0, vitesse=180000.0}
+Voiture{marque = merced, matricule=7B1212, couleur='rouge, prix=230000.0, kilometrage=230000.0, vitesse=230000.0}
+Voiture{marque = audi, matricule=932N33, couleur='gray, prix=130000.0, kilometrage=130000.0, vitesse=130000.0}
